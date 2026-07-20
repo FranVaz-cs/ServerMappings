@@ -1,0 +1,9 @@
+{
+  "name": "StaticNet",
+  "primaryAddress": "play.staticnet.in",
+  "addresses": ["play.staticnet.in"],
+  "minecraftVersions": ["1.8", "1.21", "1.26"],
+  "primaryRegion": "IN",
+  "regions": ["IN", "AS"],
+  "gameTypes": ["SMP", "PVP", "LIFESTEAL"]
+}
